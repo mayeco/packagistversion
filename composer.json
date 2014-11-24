@@ -1,7 +1,7 @@
 {
     "name": "mayeco/packagistversion",
     "license": "MIT",
-    "type": "version test",
+    "type": "library",
     "description": "test",
     "keywords": ["google api"],
     "homepage": "https://github.com/mayeco/packagistversion",
